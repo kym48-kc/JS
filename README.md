@@ -1,2 +1,2 @@
 ## JavaScript Learning
-<a href="intro.md">Introduction to JavaScript</a>
+<a href="intro.html">Introduction to JavaScript</a>
